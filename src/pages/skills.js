@@ -32,20 +32,12 @@ const skills = [
     skill: 'Redux',
   },
   {
-    icon: <i class="devicon-storybook-plain colored"></i>,
-    skill: 'Storybook',
-  },
-  {
     icon: <i class="devicon-bootstrap-plain colored"></i>,
     skill: 'Bootstrap',
   },
   {
     icon: <i class="devicon-materialui-plain colored"></i>,
     skill: 'Material UI',
-  },
-  {
-    icon: <i class="devicon-tailwindcss-plain colored"></i>,
-    skill: 'Tailwind CSS',
   },
   {
     icon: <i class="devicon-css3-plain colored"></i>,
@@ -55,18 +47,10 @@ const skills = [
     icon: <i class="devicon-nodejs-plain colored"></i>,
     skill: 'Node JS',
   },
-  {
-    icon: <i class="devicon-express-original colored"></i>,
-    skill: 'Express JS',
-  },
   // {
   //   icon: '',
   //   skill: 'JWT',
   // },
-  {
-    img: 'https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg',
-    skill: 'Postman',
-  },
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg',
     skill: 'C++',
@@ -78,10 +62,6 @@ const skills = [
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
     skill: 'Python',
-  },
-  {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg',
-    skill: 'C',
   },
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
@@ -100,15 +80,11 @@ const skills = [
     skill: 'MySQL',
   },
   {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg',
-    skill: 'PostgreSQL',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png',
+    skill: 'Adobe Photoshop',
   },
   {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg',
-    skill: 'Redis',
-  },
-  {
-    img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg',
-    skill: 'Docker',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png',
+    skill: 'Adobe Illustrator',
   },
 ];

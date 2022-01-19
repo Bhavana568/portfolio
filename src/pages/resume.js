@@ -1,4 +1,4 @@
-import ResumeFile from '../assets/Vedant_Daigavane_Resume.pdf';
+import ResumeFile from '../assets/Bhavana_s_Resume.pdf';
 
 export default function Resume() {
   return (

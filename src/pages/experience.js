@@ -61,17 +61,9 @@ const experiences = [
     position: "Graphic Design Intern",
     company: "ComplyHappy FinServ Private Limited",
     details:
-      "Conceptualizing visuals based on requirements and creating images and layouts using design softwares like Photoshop and Illustrator.",
+      "Creted marketing and publicity posters and banners using design softwares like Photoshop and Illustrator.",
     date: "Aug 21 - Nov 21",
-    img: "https://media-exp1.licdn.com/dms/image/C560BAQGluLp7ffuFsA/company-logo_200_200/0/1603688355276?e=1650499200&v=beta&t=QZxwmyTGM_keGUDHVK5bT6SoUl_Kil3gzSLS6h8wl1U",
-  },
-  {
-    position: "Graphic Design Intern",
-    company: "Tech Tomatoes",
-    details:
-      "Conceptualizing visuals based on requirements and creating images and layouts using design softwares like Photoshop and Illustrator.",
-    date: "Aug 21 - Nov 21",
-    img: "https://media-exp1.licdn.com/dms/image/C560BAQGluLp7ffuFsA/company-logo_200_200/0/1603688355276?e=1650499200&v=beta&t=QZxwmyTGM_keGUDHVK5bT6SoUl_Kil3gzSLS6h8wl1U",
+    img: "https://cdn-dfeae.nitrocdn.com/AqhDDJVauGlhcjVfMApJiCHqQCgPoIiM/assets/static/optimized/rev-e39daa7/wp-content/uploads/2021/06/IMG_4323-removebg-preview-e1595488282792-1.png",
   },
 
 ];

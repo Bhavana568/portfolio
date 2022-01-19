@@ -1,8 +1,6 @@
 import React from 'react';
-import Xenia from '../assets/xenia.png';
+import Xenia from '../assets/pulzion.png';
 import Editorial from '../assets/editorial.png';
-import RebuildHub from '../assets/rebuild-hub.png';
-import Tradenza from '../assets/tradenza.png';
 
 export default function Projects() {
   return (
@@ -48,8 +46,8 @@ export default function Projects() {
 
 const projects = [
   {
-    title: 'Xenia Website',
-    details: "Built a website from scratch for PCSB's annual event Xenia.",
+    title: 'Pulzion Website',
+    details: "Built sign in sign up page for PASC's annual event Pulzion.",
     img: Xenia,
     links: [
       {
@@ -60,32 +58,11 @@ const projects = [
             className="h-full"
           ></img>
         ),
-        link: 'https://pcsbxenia.com/',
+        link: 'https://pulzion.in/',
       },
     ],
   },
-  {
-    title: 'Rebuild Hub',
-    details:
-      'A web app that will bridge the gap between waste donors and waste collectors and will have a huge positive impact on collection of recyclable waste.',
-    img: RebuildHub,
-    links: [
-      {
-        icon: (
-          <img
-            alt=""
-            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
-            className="h-full"
-          ></img>
-        ),
-        link: 'https://rebuild-hub.netlify.app/',
-      },
-      {
-        icon: <i class="devicon-github-original"></i>,
-        link: 'https://github.com/Rebuild-Hub/Rebuild-Hub-Client',
-      },
-    ],
-  },
+ 
   {
     title: 'The Editorial',
     img: Editorial,
@@ -104,23 +81,6 @@ const projects = [
       {
         icon: <i class="devicon-github-original"></i>,
         link: 'https://github.com/pictdebsoc/the_editorial',
-      },
-    ],
-  },
-  {
-    title: 'Tradenza',
-    details: 'An Attempt to create a platform that will host a trading contest. Still in progress.',
-    img: Tradenza,
-    links: [
-      {
-        icon: (
-          <img
-            alt=""
-            src="https://img.icons8.com/ios-filled/50/000000/link--v1.png"
-            className="h-full"
-          ></img>
-        ),
-        link: 'https://60f5901158dfc928b3aef62c--tradenza.netlify.app/',
       },
     ],
   },

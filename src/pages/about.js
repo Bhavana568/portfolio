@@ -1,6 +1,5 @@
 import React from 'react';
-import ProfilePic from '../assets/profilepic.jpg';
-// import ResumeFile from '../assets/Vedant_Daigavane_Resume.pdf';
+import ProfilePic from '../assets/profilepic.jpeg';
 
 export default function About() {
   return (
@@ -15,15 +14,16 @@ export default function About() {
         </div>
         <div className="basis-2/3 space-y-4">
           <span className="text-gray-500 text-xl">Hi, I am </span>
-          <div className="text-cyan-500 text-4xl font-bold">Vedant Daigavane</div>
-          <div className="text-xl text-gray-500 font-semibold">Passionate Coder & Trader</div>
+          <div className="text-cyan-500 text-4xl font-bold">Bhavana Bafna</div>
+          <div className="text-xl text-gray-500 font-semibold">Passionate Coder & Designer</div>
           <div className="font-light text-gray-400">
-            I am a highly enthusiastic and competitive person who likes being around people who like
-            to test my limits and I try to push theirs as well. I love to acquire new skills and
-            share my knowledge. Taking up complex challenges is my passion. I don't like to stick to
-            one technique for a longer time and quickly look for other ways to do a task. I strongly
-            believe that being the jack of all trades and master of none is always better than being
-            master of one.
+            I am Bhavana, a Pre-final year student studying Information Technology at the Pune
+            Institute of Computer Technology (PICT), Pune. I have been developing web applications
+            in ReactJs for the last 1 year. I have built several projects around the web using
+            technologies like ReactJs. And possesses a good understanding of CS fundamentals like
+            OOP and has completed one internship as a React Developer at Sorceo Tech. I'm also
+            well-versed with Adobe Photoshop and Illustrator and have experience as a Graphic
+            Designer for one year. Other than that I'm currently President at PICT DEBSOC.
           </div>
         </div>
       </div>
@@ -44,7 +44,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1y07DZdv7oPGucnDmmwLa_DWzNCjbxTyY/view'}
+          href={'https://drive.google.com/file/d/1uqcnzN-iBzDRAuXtk9ahsV-EL7jr93Jx/view?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >
@@ -63,18 +63,18 @@ export default function About() {
 const social = [
   {
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg',
-    link: 'https://www.linkedin.com/in/vedant-daigavane-25785315a/',
+    link: 'https://www.linkedin.com/in/bhavana-bafna-2b80991a6',
   },
   {
     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg',
-    link: 'https://github.com/daigavane70',
+    link: 'https://github.com/Bhavana568',
   },
   {
     icon: 'https://cdn-icons-png.flaticon.com/512/1384/1384063.png',
-    link: 'https://www.instagram.com/vedant_daigavane/',
+    link: 'https://instagram.com/bafna_bhavana123?utm_medium=copy_link',
   },
   {
     icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png',
-    link: 'mailto: daigavane70@gmail.com',
+    link: 'mailto: bhavnabafna.bb@gmail.com',
   },
 ];
