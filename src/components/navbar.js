@@ -32,6 +32,9 @@ export default function Navbar() {
         <a onClick={closeMobileNav} href="#home" class="tab-button">
           Home
         </a>
+        <a onClick={closeMobileNav} href="#about" class="tab-button">
+          About
+        </a>
         <a onClick={closeMobileNav} href="#experience" class="tab-button">
           Experience
         </a>
@@ -41,9 +44,7 @@ export default function Navbar() {
         <a onClick={closeMobileNav} href="#skills" class="tab-button">
           Skills
         </a>
-        <a onClick={closeMobileNav} href="#about" class="tab-button">
-          About
-        </a>
+        
       </div>
     </div>
   );
