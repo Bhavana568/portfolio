@@ -28,10 +28,10 @@ function App() {
       <Preloader></Preloader>
       <Navbar />
       <Home></Home>
+      <About></About>
       <Experience></Experience>
       <Projects></Projects>
       <Skills></Skills>
-      <About></About>
       <Resume></Resume>
       <Footer></Footer>
     </div>
