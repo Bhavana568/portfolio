@@ -42,6 +42,14 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: "SDE Intern",
+    company: "Altair",
+    details:"",
+      // "Built a Vendor Management System and Auction Platform.The Platform automated the activities performed between Customers and Vendors. Tackled some real world problems by using advance React JS and Redux concepts. The platform is built to help top MNC's in the world.",
+    date: "Feb 22 - Present",
+    img: "https://www.oracle.com/oce/press/assets/CONTE5A2A714E4DD487A92751F67B999CDC8/native/og-social-altair-logo.jpg",
+  },
+  {
     position: "React Js Developer Intern",
     company: "Sorceo Technologies Pvt. Ltd.",
     details:
