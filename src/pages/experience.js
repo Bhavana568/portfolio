@@ -69,7 +69,7 @@ const experiences = [
     position: "Graphic Design Intern",
     company: "ComplyHappy FinServ Private Limited",
     details:
-      "Creted marketing and publicity posters and banners using design softwares like Photoshop and Illustrator.",
+      "Created marketing and publicity posters and banners using design softwares like Photoshop and Illustrator.",
     date: "Aug 21 - Nov 21",
     img: "https://cdn-dfeae.nitrocdn.com/AqhDDJVauGlhcjVfMApJiCHqQCgPoIiM/assets/static/optimized/rev-e39daa7/wp-content/uploads/2021/06/IMG_4323-removebg-preview-e1595488282792-1.png",
   },
